@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ttrotto/ttrotto.r-universe.dev
 	branch = HEAD
+[submodule "rusterize"]
+	path = rusterize
+	url = https://github.com/ttrotto/rusterize
+	subdir = R/rusterize
