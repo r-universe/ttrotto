@@ -1,0 +1,10 @@
+{
+  "id": 144044107,
+  "created_at": "2026-07-02T20:23:33.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rusterize"]
+}
